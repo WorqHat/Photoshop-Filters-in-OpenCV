@@ -1,5 +1,4 @@
 # Photoshop Filters in OpenCV
-This folder contains the code accompanying our blog post [Photoshop Filters in OpenCV](https://www.learnopencv.com/photoshop-filters-in-opencv)
 
 ## Filters Available
 
